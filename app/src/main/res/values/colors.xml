@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2F3894</color>
+    <color name="colorPrimaryDark">#2B234E</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="getStartedButtonColor">#4EAAA1</color>
+    <color name="introTextColor">#A3A2Ad</color>
+    <color name="finishButtonColor">#E47494</color>
+    <color name="finishWorkoutTextColor">#AF3555</color>
+</resources>
